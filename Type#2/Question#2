@@ -1,0 +1,29 @@
+Implement an algorithm to determine if a string has all unique characters. What if you
+cannot use additional data structures?
+
+Example:
+
+TestCase 1 ->
+
+Input:
+"Harshith"
+
+Output:
+false
+
+TestCase 2 ->
+
+Input:
+"Something"
+
+Output:
+true
+
+TestCase 3 ->
+
+Input:
+"Aneesh"
+
+Output:
+false
+

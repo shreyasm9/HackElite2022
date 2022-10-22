@@ -1,0 +1,24 @@
+Given two values of the same type, swap both the values.
+
+Example:
+
+TestCase 1 ->
+
+Input:
+a = "Hi"
+b = "Bye"
+
+Output:
+a = "Bye"
+b = "Hi"
+
+TestCase 2 ->
+
+Input:
+a = 1
+b = 2
+
+Output:
+a = 2
+b = 1
+
