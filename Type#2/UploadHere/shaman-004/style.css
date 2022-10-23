@@ -1,0 +1,16 @@
+.inbox{
+    padding: 250px;
+ 
+ 
+  border-style:inherit;
+  box-sizing: inherit;
+  border-width: 2cm;
+  border-style:inset;
+  text-align: center;
+  height: 10cm;
+  background-color: gray;
+ 
+}
+p{
+   color: white;
+}
