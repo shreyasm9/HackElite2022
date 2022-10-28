@@ -1,7 +1,8 @@
 #include <string.h>
 #include<iostream>
 using namespace std;
-void Swap(string a, string b)
+
+void SwapValues(string a, string b)
 {
     string temp;
     temp = a;
@@ -17,5 +18,5 @@ int main()
     getline(cin, a);
     cout << "b = ";
     getline(cin, b);
-    Swap(a, b);
+    SwapValues(a, b);
 }
